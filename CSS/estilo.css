@@ -8,3 +8,10 @@ body{
     margin-top:20px;
     border-radius: 15px;
 }
+
+a{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
